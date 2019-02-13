@@ -21,8 +21,6 @@ Time-delay and exponential learnong schedules are implemented.
 Created on Sat Jun 30 01:04:28 2018
 @author: Subhayan De
 
-No parts of this can be reproduced or reused without prior written permission from the author.
-
 Author's note:  add kSGD, 2nd order methods
 """
 
