@@ -17,3 +17,6 @@ This is the class file that implements:
 
 *NOTE*: Currently, the stopping conditions are maximum number of iteration and 2nd norm of gradient vector.
 Time-delay and exponential learnong schedules are implemented.
+
+Download this file and use *import SGD as sgd* to use the algorithms.  
+See *sgd_demo.py* for an example.
