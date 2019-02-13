@@ -14,9 +14,9 @@ This module implements:
   (iv) RMSprop,  
   (vi) Adam,  
   (vii) Adamax,  
-  (viii) Adadelta, 
-  (ix) Nadam, 
-  (x) SAG,  
+  (viii) Adadelta,  
+  (ix) Nadam,  
+  (x) SAG,   
   (xi) minibatch SGD,  
   (xii) SVRG.  
 
