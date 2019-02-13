@@ -1,7 +1,12 @@
 # SGD
 Implementation of Stochastic Gradient Descent algorithms in Python
 
-This is the class file that implements:  
+Download the SGD module from https://github.com/CU-UQ/SGD.  
+See the demo https://github.com/CU-UQ/SGD/blob/master/sgd_demo.py for an example of the implementation.  
+For a description of the algorithms see Ruder (2010) (https://arxiv.org/abs/1609.04747).  
+Required packages: numpy, time  
+
+This module implements:  
   (i) Stochastic Gradient Descent,   
   (ii) SGD with Momentum,  
   (iii) NAG,  
