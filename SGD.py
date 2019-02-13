@@ -18,8 +18,25 @@ This is the class file that implements:
 NOTE: Currently, the stopping conditions are maximum number of iteration and 2nd norm of gradient vector 
 and time-delay and exponential learnong schedules are implemented.
 
+Copyright (C) 2019  Subhayan De
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
 Created on Sat Jun 30 01:04:28 2018
-@author: Subhayan De
+@author: Subhayan De 
+
+Report any bugs to Subhayan.De@colorado.edu
 
 Author's note:  add kSGD, 2nd order methods
 """
