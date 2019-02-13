@@ -20,7 +20,7 @@ This module implements:
   (xi) minibatch SGD,  
   (xii) SVRG.  
 
-*NOTE*: Currently, the stopping conditions are maximum number of iteration and 2nd norm of gradient vector and time-delay and exponential learning schedules are implemented.
+*NOTE*: Currently, the stopping conditions are maximum number of iteration and 2nd norm of gradient vector is smaller than a tolerance value. Only, time-delay and exponential learning schedules are implemented.
 
 Download this file and use *import SGD as sgd* to use the algorithms.  
 See *sgd_demo.py* for an example.
