@@ -15,8 +15,8 @@ This is the class file that implements:
 (xi) minibatch SGD, 
 (xii) SVRG.
 
-NOTE: Currently, the stopping conditions are maximum number of iteration and 2nd norm of gradient vector.
-Time-delay and exponential learnong schedules are implemented.
+NOTE: Currently, the stopping conditions are maximum number of iteration and 2nd norm of gradient vector 
+and time-delay and exponential learnong schedules are implemented.
 
 Created on Sat Jun 30 01:04:28 2018
 @author: Subhayan De
