@@ -1,5 +1,5 @@
 # SGD
-Implementation of Stochastic Gradient Descent algorithms in Python
+Implementation of Stochastic Gradient Descent algorithms in Python (GNU GPLv3)
 
 Download the SGD module from https://github.com/CU-UQ/SGD.  
 See the demo https://github.com/CU-UQ/SGD/blob/master/sgd_demo.py for an example of the implementation.  
