@@ -46,7 +46,7 @@ def main():
     
     # select the algorithm to run
     # acceptable terms: SGD, SGDmomentum, SGDnesterov, AdaGrad, RMSprop, Adam, Adamax, Adadelta, Nadam, minibatchSGD, SAG, SVRG
-    alg = 'RMSprop'
+    alg = 'Adam'
     
     # initial parameter
     w10 = 2.0
