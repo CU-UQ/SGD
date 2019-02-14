@@ -1,9 +1,11 @@
 # SGD
-Implementation of Stochastic Gradient Descent algorithms in Python (GNU GPLv3)
+Implementation of Stochastic Gradient Descent algorithms in Python (GNU GPLv3)  
+Cite the article: "Topology Optimization under Uncertainty using a Stochastic
+Gradient-based Approach" (https://arxiv.org/pdf/1902.04562.pdf)
 
 Download the SGD module from https://github.com/CU-UQ/SGD.  
 See the demo https://github.com/CU-UQ/SGD/blob/master/sgd_demo.py for an example of the implementation.  
-For a description of the algorithms see Ruder (2016) (https://arxiv.org/abs/1609.04747).  
+For a description of the algorithms see De et al (2019) (https://arxiv.org/pdf/1902.04562.pdf) and Ruder (2016) (https://arxiv.org/abs/1609.04747).  
 Required packages: numpy, time  
 
 This module implements:  
