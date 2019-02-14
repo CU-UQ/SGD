@@ -1,7 +1,9 @@
 # SGD
 Implementation of Stochastic Gradient Descent algorithms in Python (GNU GPLv3)  
-Cite the article: "Topology Optimization under Uncertainty using a Stochastic
-Gradient-based Approach" (https://arxiv.org/pdf/1902.04562.pdf)
+If you find this code useful please cite the article:  
+### Topology Optimization under Uncertainty using a Stochastic Gradient-based Approach ###  
+Subhayan De, Jerrad Hampton, Kurt Maute, and Alireza Doostan (2019)  
+https://arxiv.org/pdf/1902.04562.pdf  
 
 Download the SGD module from https://github.com/CU-UQ/SGD.  
 See the demo https://github.com/CU-UQ/SGD/blob/master/sgd_demo.py for an example of the implementation.  
@@ -25,4 +27,4 @@ This module implements:
 *NOTE*: Currently, the stopping conditions are maximum number of iteration and 2nd norm of gradient vector is smaller than a tolerance value. Only, time-delay and exponential learning schedules are implemented.
 
 Download this file and use *import SGD as sgd* to use the algorithms.  
-See *sgd_demo.py* for an example.
+See *sgd_demo.py* for an example.  
