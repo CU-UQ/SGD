@@ -19,7 +19,9 @@ publisher={Springer}
 }
 Download the SGD module from https://github.com/CU-UQ/SGD.
 See the demo https://github.com/CU-UQ/SGD/blob/master/sgd_demo.py for an example of the implementation.
-For a description of the algorithms, see De et al (2020) (https://doi.org/10.1007/s00158-020-02599-z) and Ruder (2016) (https://arxiv.org/abs/1609.04747).
+For a description of the algorithms, see De et al (2020) (https://doi.org/10.1007/s00158-020-02599-z) and Ruder (2016) (https://arxiv.org/abs/1609.04747). 
+Please report any bugs to Subhayan.De@colorado.edu
+Website: www.subhayande.com
 -------------------------------------------------------------------------------
 This file uses a linear regression example to show the use of  StochasticGradientDescent module.
 Available classes:
