@@ -6,16 +6,16 @@ Subhayan De, Jerrad Hampton, Kurt Maute, and Alireza Doostan (2020)
 Structural and Multidisciplinary Optimization, 62(5), 2255-2278.
 https://doi.org/10.1007/s00158-020-02599-z  
 
-#BibTeX entry:#
-@article{de2020topology,
-  title={Topology optimization under uncertainty using a stochastic gradient-based approach},
-  author={De, Subhayan and Hampton, Jerrad and Maute, Kurt and Doostan, Alireza},
-  journal={Structural and Multidisciplinary Optimization},
-  volume={62},
-  number={5},
-  pages={2255--2278},
-  year={2020},
-  publisher={Springer}
+#BibTeX entry:# 
+@article{de2020topology, 
+  title={Topology optimization under uncertainty using a stochastic gradient-based approach}, 
+  author={De, Subhayan and Hampton, Jerrad and Maute, Kurt and Doostan, Alireza}, 
+  journal={Structural and Multidisciplinary Optimization}, 
+  volume={62}, 
+  number={5}, 
+  pages={2255--2278}, 
+  year={2020}, 
+  publisher={Springer} 
 }
 
 Download the SGD module from https://github.com/CU-UQ/SGD.  
