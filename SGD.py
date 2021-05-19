@@ -6,7 +6,8 @@ If you find this code useful please cite the article:
 
 Topology Optimization under Uncertainty using a Stochastic Gradient-based Approach
 Subhayan De, Jerrad Hampton, Kurt Maute, and Alireza Doostan (2020)
-Structural and Multidisciplinary Optimization, 62(5), 2255-2278. https://doi.org/10.1007/s00158-020-02599-z
+Structural and Multidisciplinary Optimization, 62(5), 2255-2278. 
+https://doi.org/10.1007/s00158-020-02599-z
 
 BibTeX entry:
 @article{de2020topology,
